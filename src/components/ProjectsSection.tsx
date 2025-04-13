@@ -27,7 +27,30 @@ const projects: Project[] = [
     link: "https://mahasharman.com",
     image: "/images/mahasharman_img_1.JPG"
   },
-  
+  {
+    id: "bombayroyals",
+    number: "03",
+    title: "Bombay Royals",
+    technologies: ["html", "css", "javascript"],
+    link: "https://vgsaksham.github.io/bombayroyals.github.io/index.html",
+    image: "/images/bombay_royal_img_1.JPG"
+  },
+  {
+    id: "elegance",
+    number: "04",
+    title: "Elegance",
+    technologies: ["html", "css", "javascript"],
+    link: "https://vgsaksham.github.io/elegance.github.io/",
+    image: "/images/elegance_img_1.JPG"
+  },
+  {
+    id: "portfolio1",
+    number: "05",
+    title: "Portfolio_1",
+    technologies: ["html", "css", "javascript"],
+    link: "https://vgsaksham.github.io/portfolio.github.io/",
+    image: "/images/portfolio_img_1.JPG"
+  }
 ];
 
 const ProjectsSection = () => {
