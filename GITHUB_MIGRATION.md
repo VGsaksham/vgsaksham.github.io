@@ -63,7 +63,7 @@ git push -u origin main --force
 
 1. Go to the "Actions" tab in your repository
 2. You should see a workflow running
-3. Once complete, your site will be available at: https://vgsaksham.github.io/saksham.github.io/
+3. Once complete, your site will be available at: https://vgsaksham.github.io/
 
 ## Troubleshooting
 

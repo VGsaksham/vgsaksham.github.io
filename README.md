@@ -26,7 +26,7 @@ The built files will be in the `dist` directory.
 
 ## GitHub Pages
 
-The site is hosted on GitHub Pages at: https://vgsaksham.github.io/saksham.github.io/
+The site is hosted on GitHub Pages at: https://vgsaksham.github.io/
 
 ## Technologies Used
 
