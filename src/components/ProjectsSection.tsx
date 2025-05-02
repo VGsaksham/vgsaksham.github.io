@@ -16,7 +16,7 @@ const projects: Project[] = [
     number: "01",
     title: "LandLite",
     technologies: ["nextjs", "nodejs", "php", "flask"],
-    link: "landlite.in/69.62.77.3/",
+    link: "landlite.in:3000/",
     image: "/images/landlite_img_1.JPG"
   },
   {
